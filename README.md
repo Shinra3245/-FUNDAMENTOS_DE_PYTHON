@@ -1,9 +1,9 @@
 # FUNDAMENTOS_DE_PYTHON
 
-[cite_start]Este repositorio contiene las prácticas, ejercicios y el proyecto final desarrollados durante el curso **"Fundamentos de Python"** impartido por **INFOTEC** (Agencia de Transformación Digital y Telecomunicaciones).
+Este repositorio contiene las prácticas, ejercicios y el proyecto final desarrollados durante el curso **"Fundamentos de Python"** impartido por **INFOTEC** (Agencia de Transformación Digital y Telecomunicaciones).
 
 ## Descripción del Curso
-[cite_start]El curso tuvo una duración de **30 horas**, cubriendo desde las bases de la lógica de programación hasta la gestión de datos con librerías especializadas y Programación Orientada a Objetos.
+El curso tuvo una duración de **30 horas**, cubriendo desde las bases de la lógica de programación hasta la gestión de datos con librerías especializadas y Programación Orientada a Objetos.
 
 ## Estructura del Proyecto
 
@@ -30,4 +30,4 @@ El contenido está organizado por unidades, siguiendo el plan de estudios del cu
 * **Paradigma:** Programación Orientada a Objetos (POO)
 
 ## 🎓 Certificación
-[cite_start]La constancia fue emitida el **29 de octubre de 2025** [cite: 9] [cite_start]tras haber concluido satisfactoriamente las actividades del 1 al 28 de septiembre de 2025.
+La constancia fue emitida el **29 de octubre de 2025** tras haber concluido satisfactoriamente las actividades del 1 al 28 de septiembre de 2025.
