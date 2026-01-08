@@ -1,0 +1,1 @@
+Ejercicio 3B practica opcional. Uso basico de pandas y lectura de archivos
