@@ -29,5 +29,5 @@ El contenido está organizado por unidades, siguiendo el plan de estudios del cu
 * **Librerías:** Pandas
 * **Paradigma:** Programación Orientada a Objetos (POO)
 
-## 🎓 Certificación
+## Certificación
 La constancia fue emitida el **29 de octubre de 2025** tras haber concluido satisfactoriamente las actividades del 1 al 28 de septiembre de 2025.
